@@ -16,3 +16,4 @@ class SecondActivity : AppCompatActivity() {
         }
     }
 }
+
